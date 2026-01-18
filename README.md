@@ -62,12 +62,11 @@ This project was developed as part of the **C Programming module** in the **Embe
 MP3-Tag-Reader/
 ├── main.c
 ├── view.c
-├── edit.c
-├── common.c
-├── types.h
 ├── view.h
+├── edit.c
 ├── edit.h
-└── README.md
+├── types.h
+└── common.c
 
 ```
 
@@ -77,13 +76,15 @@ MP3-Tag-Reader/
 
 ### Compile and run:
 ```bash
-gcc *.c -o address_book
-./address_book
+gcc *.c -o mp3_tag
+./mp3_tag -v song.mp3
+./mp3_tag -e song.mp3
 ```
 
 ## Learning Outcome and Impact
 
-This project strengthened my understanding of core C programming concepts such as structures, pointers, and file handling. It improved my problem-solving approach, debugging skills, and ability to design clean, modular applications. Working on this project increased my confidence in translating theoretical knowledge into a practical, working solution.
+This project strengthened my understanding of **binary file formats, metadata parsing, and structured file manipulation.**
+It improved my debugging skills and confidence in working with **low-level file operations** while ensuring data integrity.
 
 ---
 
