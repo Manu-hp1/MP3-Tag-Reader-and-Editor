@@ -59,13 +59,16 @@ This project was developed as part of the **C Programming module** in the **Embe
 ## 📂 Project Structure
 
 ```text
-AddressBook/
+MP3-Tag-Reader/
 ├── main.c
-├── contact.c
-├── contact.h
-├── file.c
-├── file.h
-└── contacts.csv
+├── view.c
+├── edit.c
+├── common.c
+├── types.h
+├── view.h
+├── edit.h
+└── README.md
+
 ```
 
 ---
