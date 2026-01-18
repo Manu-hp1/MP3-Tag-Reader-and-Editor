@@ -65,8 +65,10 @@ MP3-Tag-Reader/
 ├── view.h
 ├── edit.c
 ├── edit.h
-├── types.h
-└── common.c
+├── version.c
+├── version.h
+├── type.h
+└── sample.mp3
 
 ```
 
@@ -77,8 +79,8 @@ MP3-Tag-Reader/
 ### Compile and run:
 ```bash
 gcc *.c -o mp3_tag
-./mp3_tag -v song.mp3
-./mp3_tag -e song.mp3
+./mp3_tag -v sample.mp3
+./mp3_tag -e sample.mp3
 ```
 
 ## Learning Outcome and Impact
