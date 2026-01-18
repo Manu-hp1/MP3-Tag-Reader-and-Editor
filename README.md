@@ -25,14 +25,12 @@ This project was developed as part of the **C Programming module** in the **Embe
 
 ## ✨ Features
 
-- Add new contact details  
-- Search contacts by name or phone number  
-- Edit existing contact information  
-- Delete contacts safely  
-- Display all stored contacts  
-- Persistent data storage using files  
-- Menu-driven and user-friendly interface  
-
+- Read and display MP3 ID3 tag information
+- Edit metadata fields such as title, artist, album, year, and genre
+- Supports ID3 tag-based MP3 files
+- Command-line based interface
+- Input validation and error handling
+- Preserves original audio data while editing tags
 ---
 
 ## 🛠️ Technologies & Concepts Used
