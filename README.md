@@ -47,11 +47,12 @@ This project was developed as part of the **C Programming module** in the **Embe
 
 ## 🧠 How the Application Works
 
-- Contact details are stored using **structures**  
-- Data is written to and read from files to ensure persistence  
-- Each operation (add, search, edit, delete) is handled through separate logical modules  
-- Input validation is implemented to avoid invalid or duplicate entries  
-- The program follows a clean control flow for better readability  
+- MP3 files are opened in binary mode
+- ID3 header and frames are parsed using file offsets
+- Metadata values are extracted and displayed to the user
+- For editing, selected tag frames are updated safely
+- Audio data remains untouched during metadata modification
+- Separate modules handle reading and editing operations
 
 ---
 
