@@ -16,10 +16,10 @@ This project was developed as part of the **C Programming module** in the **Embe
 
 ## 🎯 Objective
 
-- To apply **core C programming concepts** in a real-world application  
-- To understand **file handling and data persistence**  
-- To improve logical thinking and structured problem-solving  
-- To build a clean, maintainable, and modular C application  
+- To understand the ID3 tag structure in MP3 files
+- To apply binary file handling techniques in C
+- To read and modify metadata without corrupting MP3 content
+- To improve low-level programming and file parsing skills
 
 ---
 
