@@ -1,14 +1,14 @@
-# 📘 Address Book Application using C
+# 🎵 MP3 Tag Reader & Tag Editor using C
 
-A **menu-driven Address Book application developed in C**, designed to store, manage, and retrieve contact information using **file-based persistent storage**.  
-This project demonstrates strong fundamentals in **C programming, file handling, and modular design**.
+A command-line based **MP3 Tag Reader and Tag Editor** application developed in C, designed to read, display, and modify ID3 metadata from MP3 files.
+This project demonstrates strong fundamentals in C programming, binary file handling, and structured data processing.
 
 ---
 
 ## 🚀 Project Description
 
-The Address Book Application enables users to efficiently manage contact details such as names and phone numbers through a simple console interface.  
-All data is stored in files, ensuring persistence across multiple program executions.
+The MP3 Tag Reader & Tag Editor application enables users to extract and update metadata information such as **title, artist, album, year, and genre** from MP3 files.
+It works by parsing ID3 tags directly from MP3 files using low-level file operations.
 
 This project was developed as part of the **C Programming module** in the **Embedded Systems Professional Course at Emertxe Information Technologies**.
 
