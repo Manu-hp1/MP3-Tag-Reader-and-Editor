@@ -36,12 +36,12 @@ This project was developed as part of the **C Programming module** in the **Embe
 ## 🛠️ Technologies & Concepts Used
 
 - **C Programming**
+- **Binary File Handling**
+- **File I/O (fopen, fread, fwrite, fseek)**
 - **Structures**
-- **File Handling (fopen, fread, fwrite, fseek)**
 - **Pointers and Arrays**
+- **String Manipulation**
 - **Modular Programming**
-- **Input Validation**
-- **Control Flow Logic**
 
 ---
 
